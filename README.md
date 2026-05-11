@@ -33,16 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushka-chaurasia-prog&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anushka-chaurasia-prog&theme=tokyonight)](https://git.io/streak-stats)
-
 ---
 
 ## 💻 Most Used Languages
@@ -90,7 +80,7 @@ Machine learning project using Naive Bayes algorithm.
 
 ## 📫 Connect With Me
 
-- LinkedIn: ADD_YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/anushka-chaurasia/
 - Email: anushkachaurasia81@gmail.com / anushkachaurasia112@gmail.com 
 
 ---
